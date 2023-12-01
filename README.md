@@ -1,16 +1,14 @@
-# adapiconnect
+# AdapiConnect App
 
-A new Flutter project.
+AdaptiConnect is an app that helps people learn about American Sign Language powered by the Machine Learning Model that detects hand movements and makes real-time sign language translation. Additionally, it facilitates communication between people and deaf people.
 
-## Getting Started
+## App Demonstration video
 
-This project is a starting point for a Flutter application.
+https://github.com/mostafaibrahim10010/AdaptiConnect/assets/103044237/0f2e41ef-d2ac-4ef0-a570-87d1d7ee4d30
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
