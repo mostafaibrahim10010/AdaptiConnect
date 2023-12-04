@@ -1,4 +1,4 @@
-# AdapiConnect App
+# AdapiConnect App (Free Access Version)
 
 AdaptiConnect is an app that helps people learn about American Sign Language powered by the Machine Learning Model that detects hand movements and makes real-time sign language translation. Additionally, it facilitates communication between people and deaf people.
 
